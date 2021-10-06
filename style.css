@@ -1,0 +1,23 @@
+body{
+    width: 0;
+}
+#container{
+    width: 100vw;
+    background-color: blueviolet;
+    box-sizing: border-box;
+    padding: 32px;
+    display: flex;
+   flex-direction:row;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+.item{
+    background-color: red;
+    margin: 16px;
+    padding: 32px;
+    font-size: 24px;s
+    text-align: center;
+
+
+}
